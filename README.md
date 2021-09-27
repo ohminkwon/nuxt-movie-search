@@ -1,6 +1,6 @@
 # 🎥 Nuxt Movie Search
 
-Vue3의 SPA 단점을 보완하기 위해 SSR Framework중 하나인 [Nuxt](https://nuxtjs.org/docs/get-started/installation/) 프로젝트로 이관하였습니다.
+Vue3의 SPA 단점을 보완하기 위해 [Nuxt](https://nuxtjs.org/docs/get-started/installation/) 프로젝트로 이관하였습니다.
 
 ![예시](https://raw.githubusercontent.com/ohminkwon/vue3-movie-search/master/src/assets/example_00.png)
 
